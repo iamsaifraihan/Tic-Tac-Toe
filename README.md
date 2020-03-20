@@ -12,5 +12,5 @@ npm run serve
 ### Instructions
 
 ```
-Once pages loaded you can start playting. You'll have the instruction on the Game info box. 
+Once pages loaded you can start playing. You'll have the instructions on the Game info box. 
 New game starts based on the winner. 
